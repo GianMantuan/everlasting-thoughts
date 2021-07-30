@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Everlasting Thoughts</string>
+    <string name="action_import">Import my thoughts</string>
+    <string name="action_export">Export my thoughts</string>
+
+    <string name="text_header_label">I think therefore I am</string>
+    <string name="app_description_label">All my thoughts since the last day I was able to think.</string>
+    <string name="no_thoughts_label">I haven\'t thought about it (yet)</string>
+
+    <string name="extended_fab_content_desc">Add new thoughts</string>
+    <string name="extended_fab_label">Thoughts</string>
+    <string name="thought_dialog">What am I thinking right now?</string>
+    <string name="dialog_header">Hmmm…</string>
+    <string name="button_text">Think</string>
+</resources>
